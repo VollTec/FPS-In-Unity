@@ -1,2 +1,2 @@
-# Build-Your-Own-FPS-In-Unity
+# FPS-In-Unity Project
  Assets and project files for Build Your Own First-Person Shooter in Unity
